@@ -1,1 +1,2 @@
 # Rutiner relatert til snabeltann.no
+Snabeltann blir i dag hosted av Akeo AS, takket være [@Kvelland](https://snabeltann.no/@Kvelland). Dette er en virtual maskin, hvor den fysiske maskinen står i et datasenter i Oslo og kan administreres via Azure Pack. De som har tilgang til selve maskinen i dag er [@thor](https://snabeltann.no/@thor), [@r](https://snabeltann.no/@r) og [@xqus](https://snabeltann.no/@xqus).
